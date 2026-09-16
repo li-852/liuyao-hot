@@ -1,7 +1,7 @@
 {
-  "version": "14",
-  "log": "工程加固：确定性可复现构建、app.html 结构自检+行为回归门禁、版本单调守卫、清理旧scheme死文件",
+  "version": "15",
+  "log": "设置分类默认全部收起；修复选中项“使用中”角标被按钮 overflow 裁切显示不全",
   "enc": "bundle.enc",
-  "bytes": 344658,
-  "sha": "88d9c61cb529fa79"
+  "bytes": 344811,
+  "sha": "0db2eb6bbb5e116a"
 }
