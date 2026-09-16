@@ -1,6 +1,7 @@
 {
-  "version": "13",
-  "log": "修复系统设置页空白（settingsModule 误嵌套于 basicModule）；设置页移除顶部日期时间栏",
+  "version": "14",
+  "log": "工程加固：确定性可复现构建、app.html 结构自检+行为回归门禁、版本单调守卫、清理旧scheme死文件",
   "enc": "bundle.enc",
-  "bytes": 344567
+  "bytes": 344658,
+  "sha": "88d9c61cb529fa79"
 }
