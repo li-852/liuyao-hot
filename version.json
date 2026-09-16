@@ -1,6 +1,6 @@
 {
-  "version": "12",
-  "log": "精简版本号为构建号；新增历史版本日志；更新源增加 ghproxy.net 备用通道",
+  "version": "13",
+  "log": "修复系统设置页空白（settingsModule 误嵌套于 basicModule）；设置页移除顶部日期时间栏",
   "enc": "bundle.enc",
-  "bytes": 344603
+  "bytes": 344567
 }
