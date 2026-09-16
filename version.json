@@ -1,0 +1,6 @@
+{
+  "version": "12",
+  "log": "精简版本号为构建号；新增历史版本日志；更新源增加 ghproxy.net 备用通道",
+  "enc": "bundle.enc",
+  "bytes": 344603
+}
