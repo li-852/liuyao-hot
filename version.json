@@ -1,7 +1,7 @@
 {
-  "version": "54",
-  "log": "热更端到端验证版本（内容同 v53）",
+  "version": "55",
+  "log": "热更通道最终修复：源顺序 ghproxy.net 优先 + 清单与包统一 cache-bust 绕代理缓存",
   "enc": "bundle.enc",
-  "bytes": 956170,
-  "sha": "cf4abac00907294f"
+  "bytes": 956378,
+  "sha": "98e364e3d9903581"
 }
