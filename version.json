@@ -1,7 +1,7 @@
 {
-  "version": "103",
+  "version": "104",
   "log": "更新体验优化：热更完成后明确提示已更新到的版本号",
   "enc": "bundle.enc",
-  "bytes": 602932,
-  "sha": "fd60b3f630ec4176"
+  "bytes": 603053,
+  "sha": "b567ff63ebaf4c65"
 }
