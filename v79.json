@@ -1,0 +1,7 @@
+{
+  "version": "79",
+  "log": "热更下载增加进度条：XHR onprogress 驱动，支持百分比与不确定进度两种模式",
+  "enc": "bundle.enc",
+  "bytes": 968311,
+  "sha": "22e0259d68fce32d"
+}
