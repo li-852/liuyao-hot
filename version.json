@@ -1,7 +1,7 @@
 {
-  "version": "50",
-  "log": "优化热更通道：源顺序按国内可达性重排、超时 15s→8s、version.json 改并发竞速",
+  "version": "51",
+  "log": "热更包瘦身：加密前 gzip 压缩（1.27MB→约0.4MB），配合 60s 下载超时，解决代理源 25KB/s 下载必超时的问题",
   "enc": "bundle.enc",
-  "bytes": 955690,
-  "sha": "585ea0fde46e8290"
+  "bytes": 955911,
+  "sha": "d097e7f57caa8408"
 }
