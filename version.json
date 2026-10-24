@@ -1,7 +1,7 @@
 {
-  "version": "109",
+  "version": "110",
   "log": "启动期检测验证版",
   "enc": "bundle.enc",
-  "bytes": 625391,
-  "sha": "2d357011d039a45f"
+  "bytes": 625464,
+  "sha": "55f341ddce0a19d0"
 }
