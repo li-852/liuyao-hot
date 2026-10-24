@@ -1,0 +1,7 @@
+{
+  "version": "121",
+  "log": "防止重复提示更新：本机已是该版本时不再弹窗、不亮红点",
+  "enc": "bundle.enc",
+  "bytes": 641190,
+  "sha": "bad27ea9cebf53bb"
+}
