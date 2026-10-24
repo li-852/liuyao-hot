@@ -1,7 +1,7 @@
 {
-  "version": "105",
+  "version": "106",
   "log": "热更体验验证版：更新完成后应提示已更新到的版本",
   "enc": "bundle.enc",
-  "bytes": 603168,
-  "sha": "d36cc194dd75b0a5"
+  "bytes": 603286,
+  "sha": "b8015e576964df76"
 }
