@@ -1,0 +1,7 @@
+{
+  "version": "62",
+  "log": "热更清单按版本号探测（v<N>.json）绕开代理对 @main 的长缓存；已是最新时加同步延迟提示",
+  "enc": "bundle.enc",
+  "bytes": 962478,
+  "sha": "45eb3f2703ce7d34"
+}
