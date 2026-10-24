@@ -1,7 +1,7 @@
 {
-  "version": "52",
-  "log": "热更链路验证版本（内容同 v51，仅版本号递增）",
+  "version": "53",
+  "log": "修复热更致命 bug：内联脚本不触发 load 导致注入链断裂、logic.js 从未注入",
   "enc": "bundle.enc",
-  "bytes": 955949,
-  "sha": "14c4702da04ae699"
+  "bytes": 956127,
+  "sha": "0722fc4c8491fd3b"
 }
