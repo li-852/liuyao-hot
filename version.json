@@ -1,7 +1,7 @@
 {
-  "version": "82",
-  "log": "进度条最终验证版",
+  "version": "83",
+  "log": "优化混淆参数：关闭 splitStrings，混淆后体积 -51.6%（325KB→373KB）、gzip -32.4%，启动解析与下载同步变快",
   "enc": "bundle.enc",
-  "bytes": 969893,
-  "sha": "e8bf20b1bb70e96c"
+  "bytes": 572217,
+  "sha": "c4944ce512e85eac"
 }
