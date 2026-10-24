@@ -1,7 +1,7 @@
 {
-  "version": "59",
-  "log": "热更通道全面打通：源顺序+cache-bust+gzip瘦身+注入链修复；新增 --push 一键上线",
+  "version": "60",
+  "log": "六爻内外卦标注去掉「外卦/内卦」文字前缀，只显示卦名",
   "enc": "bundle.enc",
-  "bytes": 956861,
-  "sha": "7624bc9cfad7fe4e"
+  "bytes": 956349,
+  "sha": "a887733438a27cc6"
 }
