@@ -1,7 +1,7 @@
 {
-  "version": "81",
-  "log": "热更进度条优化：下载中隐藏确认按钮、未知总量时显示已下载 KB",
+  "version": "82",
+  "log": "进度条最终验证版",
   "enc": "bundle.enc",
-  "bytes": 969884,
-  "sha": "280f925529f66e0f"
+  "bytes": 969893,
+  "sha": "e8bf20b1bb70e96c"
 }
