@@ -1,7 +1,7 @@
 {
-  "version": "58",
-  "log": "热更端到端验证版本（内容同 v57）",
+  "version": "59",
+  "log": "热更通道全面打通：源顺序+cache-bust+gzip瘦身+注入链修复；新增 --push 一键上线",
   "enc": "bundle.enc",
-  "bytes": 956653,
-  "sha": "be0427d0fe206154"
+  "bytes": 956861,
+  "sha": "7624bc9cfad7fe4e"
 }
