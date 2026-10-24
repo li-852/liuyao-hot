@@ -1,0 +1,7 @@
+{
+  "version": "116",
+  "log": "修复「已更新到 vXX」不弹：标记改由 logic.js 读取后自清（loader 不再提前清除）",
+  "enc": "bundle.enc",
+  "bytes": 640767,
+  "sha": "94f15e92d9d5cef0"
+}
