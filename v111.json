@@ -1,0 +1,7 @@
+{
+  "version": "111",
+  "log": "启动期检测失败自动重试（代理 TLS 未就绪时最多重试 2 次）",
+  "enc": "bundle.enc",
+  "bytes": 625649,
+  "sha": "a4aa14eeb92e4ce4"
+}
